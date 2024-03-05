@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.49b81542.css",
-    "main.js": "/portfolio-react/static/js/main.d851a088.js",
+    "main.css": "/portfolio-react/static/css/main.1ef733bc.css",
+    "main.js": "/portfolio-react/static/js/main.3df62a77.js",
     "static/js/453.906b0208.chunk.js": "/portfolio-react/static/js/453.906b0208.chunk.js",
     "static/media/header-bg.jpg": "/portfolio-react/static/media/header-bg.1d2c60f7dfa441364695.jpg",
+    "static/media/Car repair.jpg": "/portfolio-react/static/media/Car repair.dab8fc7188477a8927d6.jpg",
+    "static/media/04.jpg": "/portfolio-react/static/media/04.da38cca11cede6d4ef43.jpg",
+    "static/media/03.jpg": "/portfolio-react/static/media/03.a1f0cefe3665b6313065.jpg",
+    "static/media/05.jpg": "/portfolio-react/static/media/05.497e1d12eb46a0b52271.jpg",
+    "static/media/06.jpg": "/portfolio-react/static/media/06.86ff2b3c4326d053ac65.jpg",
+    "static/media/02.jpg": "/portfolio-react/static/media/02.97324eaa701fadea307f.jpg",
     "static/media/sun.svg": "/portfolio-react/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/portfolio-react/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub-black.svg": "/portfolio-react/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
     "index.html": "/portfolio-react/index.html",
-    "main.49b81542.css.map": "/portfolio-react/static/css/main.49b81542.css.map",
-    "main.d851a088.js.map": "/portfolio-react/static/js/main.d851a088.js.map",
+    "main.1ef733bc.css.map": "/portfolio-react/static/css/main.1ef733bc.css.map",
+    "main.3df62a77.js.map": "/portfolio-react/static/js/main.3df62a77.js.map",
     "453.906b0208.chunk.js.map": "/portfolio-react/static/js/453.906b0208.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49b81542.css",
-    "static/js/main.d851a088.js"
+    "static/css/main.1ef733bc.css",
+    "static/js/main.3df62a77.js"
   ]
 }
